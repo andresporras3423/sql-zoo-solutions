@@ -1,2 +1,2 @@
 # sql-zoo-solutions
-this is development
+this is tutorial-solutions
